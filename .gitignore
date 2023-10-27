@@ -1,2 +1,3 @@
 embeddings/
 GoogleNews-vectors-negative300.bin
+.DS_Store
